@@ -111,12 +111,11 @@ checksum = "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f"
 
 [[package]]
 name = "xcb"
-version = "1.0.0-beta.4"
+version = "1.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d319018b38bf76819a40f32ce1a858cc4aeaad0c601c4f634e59f7dac61de17a"
+checksum = "b127bf5bfe9dbb39118d6567e3773d4bbc795411a8e1ef7b7e056bccac0011a9"
 dependencies = [
  "bitflags",
  "libc",
- "log",
  "quick-xml",
 ]
